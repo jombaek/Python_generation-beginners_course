@@ -1,0 +1,5 @@
+monitor = int(input())
+system_unit = int(input())
+keyboard = int(input())
+mouse = int(input())
+print(3 * (monitor + system_unit + keyboard + mouse))
